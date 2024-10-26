@@ -2,10 +2,10 @@
 name: Créer une communauté ou un meet-up Bitcoin
 goal: Créer et organiser facilement une communauté ou un meet-up Bitcoin
 objectives:
-  - Comment créer une communauté et/ou un meet-up Bitcoin?
-  - Avec quels outils construire une identité visuelle et numérique pour sa communauté?
-  - Quels objectifs annuels se fixer pour sa communauté?
-  - Dans quels projets et initiatives se lancer avec sa communauté?
+  - Créer une communauté et/ou un meet-up Bitcoin
+  - Construire une identité visuelle et numérique pour sa communauté
+  - Se fixer des objectifs annuels pour sa communauté
+  - Lancer des projets et initiatives avec sa communauté
   - Comprendre la pertinence d'anticiper l'évolution future d'une communauté
 ---
 
@@ -1423,7 +1423,7 @@ Seul(e), il est vrai que l'on peut rapidement explorer une des nombreuses galeri
 
 Alors qu'**en créant et/ou en intégrant une communauté de bitcoiners, en partageant et en échangeant avec eux régulièrement, vous avancerez en même temps dans toutes les directions du terrier**.
 
-## Donnez-nous votre avis sur ce cours
+## Évaluez ce cours
 <chapterId>08a35d2a-204b-519a-9bb1-588665a037fa</chapterId>
 <isCourseReview>true</isCourseReview>
 

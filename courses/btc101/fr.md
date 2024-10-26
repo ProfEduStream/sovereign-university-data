@@ -106,8 +106,6 @@ Le mouvement cypherpunk, avec ses racines profondes dans l'activisme numérique 
 
 Au sein du sytème financier actuel les monnaies (telles que l'euro ou le dollar) sont uniquement émises de manière imprévisible par les banques centrales et les États, et sont donc sujettes à l'inflation, voir même à l'hyperinflation, ce qui entraînent de lourds effets néfastes sur les sociétés et les individus. À l'inverse Bitcoin, est un sytème ouvert qui défini explicitement un calendrier d'émission de nouveaux bitcoin de manière précise, fixe et transparente. En particulier, l'émission de cette nouvelle monnaie s'effectue lors de la création d'un nouveau bloc valide pour récompenser le mineur qui a dépensé des ressources pour obtenir ce nouveau bloc valide. De plus, cette récompense est divisée par deux après tous les 210,000 blocs (soit environ tous les 4 ans) afin d'assurer à la fois une quantité de bitcoin en circulation finie (d'environ 21 000 000 BTC) et d'une inflation monétaire qui tend vers zéro à mesure que le temps passe.
 
-Au sein du sytème financier actuel les monnaies (telles que l'euro ou le dollar) sont uniquement émises de manière imprévisible par les banques centrales et les États, et sont donc sujettes à l'inflation, voir même à l'hyperinflation, ce qui entraînent de lourds effets néfastes sur les sociétés et les individus. À l'inverse Bitcoin, est un sytème ouvert qui défini explicitement un calendrier d'émission de nouveaux bitcoin de manière précise, fixe et transparente. En particulier, l'émission de cette nouvelle monnaie s'effectue lors de la création d'un nouveau bloc valide pour récompenser le mineur qui a dépensé des ressources pour obtenir ce nouveau bloc valide. De plus, cette récompense est divisée par deux après tous les 210,000 blocs (soit environ tous les 4 ans) afin d'assurer à la fois une quantité de bitcoin en circulation finie (d'environ 21 000 000 BTC) et d'une inflation monétaire qui tend vers zéro à mesure que le temps passe.
-
 - Le "Manifesto du Crypto-Anarchiste":
   Rédigé par Timothy C. May en 1992, ce manifeste expose comment l'utilisation de la cryptographie pourrait entraîner une ère d'anarchie cryptographique où les gouvernements seraient impuissants à intervenir dans les affaires privées des citoyens. May prévoyait un futur où les échanges d'informations, d'argent et de messages pourraient se faire sans l'intervention d'une tierce partie, et ce, de manière anonyme.
 
@@ -215,7 +213,7 @@ Bitcoin, quant à lui, présente de nouvelles possibilités. De part ses propri�
 
 Aujourd'hui, les grandes monnaies telles que l'euro et le dollar sont considérées comme fiduciaires. Cela signifie qu'elles n'ont pas de valeur intrinsèque. Leur valeur repose entièrement sur la confiance et la croyance que nous accordons aux institutions qui les régulent.
 
-Une monnaie fiduciaire est une forme de monnaie qui est décrétée comme monnaie par une institution, telle qu'un État-nation, comme la Chine avec le Yen, ou une union politico-économique, telle que l'Union européenne avec l'euro. L'entité en charge de l'émission d'une monnaie fiduciaire est une banque centrale (Par exemple, nous pouvons citer la Banque populaire de Chine, la Réserve fédérale des États-Unis, ou bien la Banque centrale de la République de Guinée). Ce sont ces dernières qui sont en charge de décider de la politique monétaire et donc de combien d'argent devrait être mis en circulation ou imprimé.
+Une monnaie fiduciaire est une forme de monnaie qui est décrétée comme monnaie par une institution, telle qu'un État-nation, comme la Chine avec le Yuan, ou une union politico-économique, telle que l'Union européenne avec l'euro. L'entité en charge de l'émission d'une monnaie fiduciaire est une banque centrale (Par exemple, nous pouvons citer la Banque populaire de Chine, la Réserve fédérale des États-Unis, ou bien la Banque centrale de la République de Guinée). Ce sont ces dernières qui sont en charge de décider de la politique monétaire et donc de combien d'argent devrait être mis en circulation ou imprimé.
 
 ![image](assets/fr/chapter2/1.webp)
 
@@ -223,7 +221,7 @@ Une monnaie fiduciaire est une forme de monnaie qui est décrétée comme monnai
 
 Depuis l'Antiquité, l'or a servi de référence monétaire. Cependant, sa rigidité a souvent poussé les dirigeants – qu'il s'agisse d'empereurs romains ou de gouvernements modernes – à adopter des monnaies alternatives, souvent fiduciaires.
 
-Le mécanisme est simple et s'inspire des pratiques existente depuis les origines de la civilisation. Les dirigeants, désireux d'exercer un contrôle sur les richesses, commencent par centraliser l'or, souvent en exploitant leur pouvoir et en promettant protection et sécurité. Avec cette réserve précieuse entre leurs mains, ils introduisent une nouvelle monnaie, équivalente en valeur à l'or, mais frappée à leur effigie. Cette monnaie commence alors à circuler, et le peuple s'habitue rapidement à sa commodité.
+Le mécanisme est simple et s'inspire des pratiques existantes depuis les origines de la civilisation. Les dirigeants, désireux d'exercer un contrôle sur les richesses, commencent par centraliser l'or, souvent en exploitant leur pouvoir et en promettant protection et sécurité. Avec cette réserve précieuse entre leurs mains, ils introduisent une nouvelle monnaie, équivalente en valeur à l'or, mais frappée à leur effigie. Cette monnaie commence alors à circuler, et le peuple s'habitue rapidement à sa commodité.
 
 Progressivement, ces dirigeants dévaluent discrètement la nouvelle monnaie, réduisant sa valeur par rapport à l'or initial de quelques pourcents chaque année. Cette dévaluation silencieuse est souvent justifiée comme étant dans l'intérêt du peuple. Ainsi, ceux qui épargnent en cette monnaie fiduciaire voient la valeur de leurs économies s'éroder, alors que l'État finance ses projets grâce à l'inflation. De plus, cette dévaluation rend la dette plus facile à rembourser.
 
@@ -353,13 +351,13 @@ Une monnaie qui repose sur un tiers de confiance comme une institution financiè
 
 ### La politique monetaire du Bitcoin
 
-Bitcoin est une monnaie numérique décentralisée avec une quantité maximale pré-définie de **21 millions d'unités**. Cette caractéristique intrinsèque de rareté est déterminée par son code informatique et renforcer par le consensus de tous les utilisateurs participant au protocole.
+Bitcoin est une monnaie numérique décentralisée avec une quantité maximale pré-définie de **21 millions d'unités**. Cette caractéristique intrinsèque de rareté est déterminée par son code informatique et renforcée par le consensus de tous les utilisateurs participant au protocole.
 
 ![image](assets/fr/chapter4/0.webp)
 
 En ce qui concerne son émission monétaire, elle peut être illustrée par une courbe en S qui représente la quantité de bitcoins créés au cours du temps. Par exemple, en 2022, environ 18,5 millions de bitcoins étaient en circulation. Les prévisions indiquent qu'en 2025, il y aura environ 19,5 millions de bitcoins soit ~93% de l'offre totale, et en 2037, ce chiffre atteindra 20,4 millions.
 
-### Comment creer de nouveau Bitcoin ?
+### Comment créer de nouveaux bitcoins ?
 
 La création de nouveaux bitcoins est le résultat du processus de minage, une procédure d'attestation des transactions sur le réseau Bitcoin.
 
@@ -394,13 +392,13 @@ Nous reviendrons en détail sur les mineurs dans le chapitre minage.
 
 ### Garantir la rareté numérique
 
-La rareté du Bitcoin est garantie par deux mécanismes clés; l'ajustement de la difficulté du minage et la théorie du jeu:
+La rareté du Bitcoin est garantie par deux mécanismes clés; l'ajustement de la difficulté du minage et la théorie des jeux:
 
 - L'ajustement de la difficulté du minage est un mécanisme qui s'effectue tous les 2016 blocs, soit environ deux semaines, pour garantir que, en moyenne, un nouveau bloc est ajouté à la blockchain toutes les dix minutes. Cette fréquence de création de blocs et la quantité totale de bitcoins sont des aspects figés du protocole Bitcoin et ne peuvent être modifiés sans un consensus général, contrairement aux décisions arbitraires prises dans les systèmes monétaires traditionnels.
 
 ![image](assets/fr/chapter4/2.webp)
 
-> Le saviez vous ? Les mineurs sont incités miner un bloc pour gagner les nouveaux bitcoins et les frais de transaction associés aux transactions qu'il inclue dans son bloc. À mesure que le nombre de bitcoins émis se rapproche de la limite de 21 millions, les mineurs seront davantage rémunérer par ses frais de transactions plutôt que par la récompense du bloc.
+> Le saviez vous ? Les mineurs sont incités à miner un bloc pour gagner les nouveaux bitcoins et les frais de transaction associés aux transactions qu'ils incluent dans leurs blocs. À mesure que le nombre de bitcoins émis se rapproche de la limite de 21 millions, les mineurs seront davantage rémunérés par les frais de transactions plutôt que par la récompense du bloc.
 
 - La théorie des jeux est un concept mathématique qui repose sur la rationalité humaine. Ici, dans Bitcoin, ce sont les utilisateurs qui votent pour les changements du protocole. Oui, vous avez bien lu : toute modification du protocole Bitcoin nécessiterait l'accord de l'ensemble de la communauté des utilisateurs, ce qui est hautement complexe. Si quelqu'un voulait donc créer un 22ème million de bitcoin, il devrait convaincre l'ensemble des utilisateurs de volontairement dévaluer leur propre épargne, ce qui ne risque pas d'arriver car Bitcoin est mondial et non gouverné par un groupe central.
 
@@ -439,13 +437,13 @@ En somme, le Bitcoin, par sa nature décentralisée, sa rareté programmée et s
 
 ![conclusion sur la monnaie](https://youtu.be/xJsT7Jk5xWE)
 
-La monnaie est un outil social qui doit s'adapter aux besoins et à la technologie. Au fil du temps, l'or a été utilisé comme réserve de valeur car il était rare et ne pouvait pas être dévalué. Cependant, plus tard, l'or a été remplacé par de la dette et de la monnaie fiduciaire, qui est facile à transporter, mais aussi à manipuler sa politique monétaire.
+La monnaie est un outil social qui doit s'adapter aux besoins et à la technologie. Au fil du temps, l'or a été utilisé comme réserve de valeur car il était rare et ne pouvait pas être dévalué. Cependant, plus tard, l'or a été remplacé par de la dette et de la monnaie fiduciaire, qui est facile à transporter, mais aussi à manipuler via sa politique monétaire.
 
-Bitcoin est une alternative monétaire réaliste car il est rare et limité à 21 millions de bitcoins qui ne peuvent pas être modifiés. La création monétaire est maintenue grâce à l'ajustement de la difficulté toutes les 2 semaines, et grâce aux halving garantissant une preuve mathématique vérifiable de sa rareté. Contrairement aux euros ou aux dollars dont le volume en circulation est non-vérifiable et changent fréquemment suite aux mandants d'institution financière, Bitcoin est une monnaie cryptographique avec une politique monétaire neutre et fixe. Elle est donc une excellente réserve de valeur mondiale car elle ne peut pas être dévaluer par l'impression monétaire.
+Bitcoin est une alternative monétaire réaliste car il est rare et limité à 21 millions de bitcoins qui ne peuvent pas être modifiés. La création monétaire est maintenue grâce à l'ajustement de la difficulté toutes les 2 semaines, et grâce aux halving garantissant une preuve mathématique vérifiable de sa rareté. Contrairement aux euros ou aux dollars dont le volume en circulation est non-vérifiable et change fréquemment suite aux mandants d'institution financière, Bitcoin est une monnaie cryptographique avec une politique monétaire neutre et fixe. Elle est donc une excellente réserve de valeur mondiale car elle ne peut pas être dévaluée par l'impression monétaire.
 
 Bitcoin est avant tout une forme de monnaie qui incite à remettre en question le pouvoir des institutions financières sur la monnaie. C'est un combat philosophique et économique qui est en jeu. Pour comprendre Bitcoin, il est important de comprendre ses bases fondamentales et de démystifier les idées fausses qui l'entourent. Cela permettra d'engager un débat intellectuel constructif sur l'avenir de la monnaie.
 
-Maintenant que nous avons établi les différences entre Bitcoin et les monnaies fiduciaires, nous allons dans les prochains chapitres étudier ce que sont les portefeuilles Bitcoin car il est de votre responsabilité de sécuriser vos fonds. En effet la sovereineté financière qu'offre Bitcoin va nécessairement de pair avec la responsabilité individuelle.
+Maintenant que nous avons établi les différences entre Bitcoin et les monnaies fiduciaires, nous allons dans les prochains chapitres étudier ce que sont les portefeuilles Bitcoin car il est de votre responsabilité de sécuriser vos fonds. En effet la souveraineté financière qu'offre Bitcoin va nécessairement de pair avec la responsabilité individuelle.
 
 # Les portefeuilles Bitcoin
 <partId>28860585-4f61-59d9-b242-f4c57d837cc1</partId>
@@ -1100,7 +1098,7 @@ Bitcoin est devenu un actif financier majeur, principalement en raison de son of
 - Les performances passées ne préjugent pas des performances futures.
 - Contactez votre conseiller financier si besoin.
 
-> DécouvreBitcoin (Rogzy) ne fait pas de conseil en investissement et rien de ce qui est énoncé ici ne doit être considéré comme tel.
+> Plan ₿ Network ne fait pas de conseil en investissement et rien de ce qui est énoncé ici ne doit être considéré comme tel.
 
 ### Mini Check-list avant de faire le grand saut
 
@@ -1389,22 +1387,19 @@ Félicitations pour avoir terminé cette formation BTC 101 ! J'espère de tout c
 - [MIN 201](https://planb.network/courses/min201) pour en savoir plus sur le minage
 - et bien d'autres...
 
-## Soutiens-nous
-<chapterId>3e6e756b-b6c4-5d41-bece-767922348067</chapterId>
 
-Ce cours, ainsi que l'intégralité du contenu présent sur cette université, vous a été offert gratuitement par notre communauté. Pour nous soutenir, vous pouvez le partager autour de vous, devenir membre de l'université et même contribuer à son développement via [notre GitHub](https://github.com/PlanB-Network/bitcoin-educational-content). Au nom de toute l'équipe, merci !
-
-
-
-## Donnez-nous votre avis sur ce cours
+## Évaluez ce cours
 <chapterId>585729e2-b0ab-51b5-89ec-593e3ea22c57</chapterId>
 <isCourseReview>true</isCourseReview>
 
-## Note la formation
-<chapterId>44d01865-5c89-55a5-a397-a014960eec0f</chapterId>
+## Examen final
+<chapterId>8410e961-3841-5abf-a51d-04fc0139dd59</chapterId>
+<isCourseExam>true</isCourseExam>
 
-Un système de notation pour la formation sera bientôt intégré à cette nouvelle plateforme de E-learning ! En attendant, merci beaucoup d'avoir suivi le cours et si vous l'avez apprécié, pensez à le partager autour de vous.
+## Conclusion
 
-Un immense merci à nos Patreon, membres et donateurs pour leur soutien financier, merci aux personnes qui partagent et merci à celles et ceux qui ont rendu cette formation possible : Rachel, Muriel, l'équipe de StackinSat, JohnOnChain, Fanis, Guillaume, Lounes, les correcteurs et les relecteurs.
+<chapterId>dfc534be-44a9-5e8c-9c98-e51ef0554e91</chapterId>
 
-À bientôt!
+**Félicitations pour avoir terminé ce cours !**
+
+Veuillez noter que ce chapitre est actuellement en construction et qu'une version améliorée arrivera bientôt. En attendant, si vous êtes impatient de poursuivre votre voyage Bitcoin, nous vous invitons à explorer les autres cours et tutoriels disponibles sur notre plateforme. Continuez votre bon travail et bon apprentissage !
