@@ -1440,7 +1440,7 @@ Dans l'objectif d'amener votre communauté à s'épanouir encore un peu plus, **
 
 À travers celle-ci, **différents points plus poussés pourront être abordés; tels que: comment construire des présentations ou des ateliers pour ses meet-ups, et avec quels objectifs? Mais aussi, comment mettre en place un événement de grande envergure, à une centaine de participants**.
 
-Pour ce faire, nous partirons de l'expérience de plusieurs communautés ayant elles-mêmes déjà réalisées leurs propres événements et présentations, **et nous espérons que d'autres bitcoiners internationaux viendront compléter cette formation avec d'autres exemples, idées, etc... !**
+Pour ce faire, nous partirons de l'expérience de plusieurs communautés ayant elles-mêmes déjà réalisées leurs propres événements et présentations.
 
 ![image](assets/fr/chapter38/62.webp)
 ####
