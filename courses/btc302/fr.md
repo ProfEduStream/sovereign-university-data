@@ -1423,10 +1423,6 @@ Seul(e), il est vrai que l'on peut rapidement explorer une des nombreuses galeri
 
 Alors qu'**en créant et/ou en intégrant une communauté de bitcoiners, en partageant et en échangeant avec eux régulièrement, vous avancerez en même temps dans toutes les directions du terrier**.
 
-## Évaluez ce cours
-<chapterId>08a35d2a-204b-519a-9bb1-588665a037fa</chapterId>
-<isCourseReview>true</isCourseReview>
-
 ## Formation BTC302, la suite
 <chapterId>8bf10b77-80ee-5d50-87bc-0ef32574a675</chapterId>
 
@@ -1442,10 +1438,15 @@ L'intérêt d'en créer une est dual:
 ####
 Dans l'objectif d'amener votre communauté à s'épanouir encore un peu plus, **il n'est pas à exclure qu'une suite à la formation COMMU302 puisse sortir sur [planb.network](https://planb.network/) dans les prochains mois**.
 
-À travers celle-ci, **nous détaillerons notamment la mise en place d'événements de grande envergure, à une centaine de participants**. Les questions essentielles telles que: "Pourquoi?", "Quelle organisation?", "Où?", "Quel budget?", "Comment?" et "Quel fonctionnement?" seront alors abordées.
+À travers celle-ci, **différents points plus poussés pourront être abordés; tels que: comment construire des présentations ou des ateliers pour ses meet-ups, et avec quels objectifs? Mais aussi, comment mettre en place un événement de grande envergure, à une centaine de participants**.
 
-Pour ce faire, nous partirons de l'expérience de plusieurs communautés françaises ayant elles-mêmes déjà réalisées leur propre événement, telles que **le BEF (le Bitcoin Economic Forum, en mai, en Bretagne), le B-only (en novembre, à Annecy) et le Be On Lille (en septembre, à Lille)**.
+Pour ce faire, nous partirons de l'expérience de plusieurs communautés ayant elles-mêmes déjà réalisées leurs propres événements et présentations.
 
 ![image](assets/fr/chapter38/62.webp)
 ####
 Bien évidemment, **dans d'autres pays, la législation et le fonctionnement associatif est différent**. **Nous espérons donc que d'autres bitcoiners internationaux viendront compléter cette formation avec des informations spécifiques à leur pays**.
+
+
+## Évaluez ce cours
+<chapterId>08a35d2a-204b-519a-9bb1-588665a037fa</chapterId>
+<isCourseReview>true</isCourseReview>
